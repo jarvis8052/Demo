@@ -1,3 +1,3 @@
 # Demo
-The first project
+The is first project
 this is git session
